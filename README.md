@@ -1,13 +1,17 @@
-## Hi 👋, I'm Nadhif
+## Hi 👋
 
-💻 Web Developer  
-🌱 Lagi belajar Laravel & React  
-🚀 Suka bikin project kecil buat latihan
+Saya mahasiswa informatika yang sedang belajar pemrograman 💻
 
-### Tech Stack
-- HTML, CSS, JavaScript
-- PHP (Laravel)
-- MySQL
+🌱 Sedang belajar:
 
-### Contact
-- Instagram: @nadhiff16
+* C Programming
+* Web Development
+
+📂 Project:
+
+* Kalkulus (visualisasi grafik fungsi)
+* Website sederhana
+
+📫 Kontak:
+
+* Instagram: nadhiff16
