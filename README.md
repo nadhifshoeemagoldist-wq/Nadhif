@@ -9,9 +9,5 @@
 - PHP (Laravel)
 - MySQL
 
-### Project
-- Sistem Absensi
-- Website Portfolio
-
 ### Contact
-- Instagram: @username
+- Instagram: @nadhiff16
